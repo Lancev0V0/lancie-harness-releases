@@ -2,7 +2,7 @@
 
 Windows 桌面助手的安装包与更新发布仓库。
 
-**[下载 Windows x64 最新版](../../releases/latest)**
+**[下载 Windows x64 最新版](https://github.com/Lancev0V0/lancie-harness-releases/releases/latest)**
 
 ## 安装与更新
 
